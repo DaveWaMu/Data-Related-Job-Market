@@ -1,0 +1,160 @@
+,Occupation (SOC Code),Employment,Annual Median Wage,Annual 10th Percentile Wage,Annual 25th Percentile Wage,Annual 75th Percentile Wage,Annual 90th Percentile Wage
+0,"Cross-industry, Private, Federal, State, and Local Government(000000)",       59680,       98230,       52950,       71790,      130370,      165230
+1,"Cross-industry, Private Ownership Only(000001)",       54970,      101340,       55110,       74480,      132960,      167190
+2,Sector 21 - Mining(21--22),         190,       99110,       59140,       75140,      122940,      144480
+3,Oil and Gas Extraction(211000),         190,       99120,       58980,       74980,      122780,      144860
+4,Oil and Gas Extraction(211100),         190,       99120,       58980,       74980,      122780,      144860
+5,"Electric Power Generation, Transmission and Distribution(221100)",           -,       82950,       53690,       65850,      116480,      141920
+6,Fossil Fuel Electric Power Generation(221112),          30,       94460,       57620,       64030,      130880,      152450
+7,Natural Gas Distribution(221200),          40,      102070,       68440,       81030,      135190,      163650
+8,Sector 23 - Construction(23--24),          50,       86690,       58890,       69660,      103780,      126220
+9,Specialty Trade Contractors(238000),          30,       84730,       58460,       67940,       98740,      113040
+10,"Sectors 31, 32, and 33 - Manufacturing(31--34)",           -,      110460,       59910,       79980,      142810,      175360
+11,Food Manufacturing(311000),          30,       85400,       54870,       69920,      123660,      143100
+12,Chemical Manufacturing(325000),         880,      106670,       52980,       76610,      130250,      160770
+13,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)(3250A1)",          80,       91990,       58240,       71540,      113310,      139710
+14,Pharmaceutical and Medicine Manufacturing(325400),         800,      108530,       51740,       77450,      131430,      162090
+15,Fabricated Metal Product Manufacturing(332000),          40,       85700,       52680,       69530,      109980,      150780
+16,Machinery Manufacturing(333000),         150,       88480,       59080,       68630,      110270,      133630
+17,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)(3330A1)",          30,       94290,       58770,       73340,      111520,      128790
+18,"Engine, Turbine, and Power Transmission Equipment Manufacturing(333600)",         100,       83650,       59060,       67480,      104470,      132210
+19,Computer and Electronic Product Manufacturing(334000),           -,      140020,       83320,      106260,      170270,      194640
+20,Computer and Peripheral Equipment Manufacturing(334100),           -,      149650,       85800,      108930,      175150,      202500
+21,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing(334500)",          80,      118470,       68960,       90050,      143640,      178130
+22,Manufacturing and Reproducing Magnetic and Optical Media(334600),          40,           -,           -,           -,           -,           -
+23,"Electrical Equipment, Appliance, and Component Manufacturing(335000)",          40,       84910,       55870,       62750,      116210,      142130
+24,Transportation Equipment Manufacturing(336000),         430,      106720,       59280,       76960,      133280,      164200
+25,Motor Vehicle Manufacturing(336100),         110,       64250,       54070,       57890,       99720,      127540
+26,Aerospace Product and Parts Manufacturing(336400),         300,      117310,       79040,       95800,      140860,      173700
+27,Miscellaneous Manufacturing(339000),         150,       86880,       52180,       65650,      115970,      140200
+28,Medical Equipment and Supplies Manufacturing(339100),         140,       87810,       52620,       65790,      116610,      140790
+29,Sector 42 - Wholesale Trade(42--43),        1670,      102240,       56590,       74950,      133670,      166410
+30,"Merchant Wholesalers, Durable Goods(423000)",        1180,      106090,       58240,       78580,      136770,      172730
+31,"Merchant Wholesalers, Durable Goods (4232, 4233, 4235, 4236, 4237, and 4239 only)(4230A1)",         340,      124120,       70010,       92470,      163440,           -
+32,Professional and Commercial Equipment and Supplies Merchant Wholesalers(423400),         750,      103400,       56810,       77950,      128970,      158180
+33,"Machinery, Equipment, and Supplies Merchant Wholesalers(423800)",          90,       64350,       53220,       57380,      100240,      132680
+34,"Merchant Wholesalers, Nondurable Goods(424000)",         370,       96490,       54130,       73120,      127030,      160440
+35,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)(4240A1)",         100,       81830,       46720,       63410,      101770,      137740
+36,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)(4240A2)",         200,      110400,       57410,       83900,      140550,      171230
+37,"Merchant Wholesalers, Nondurable Goods (4241, 4247, and 4249 only)(4240A3)",          50,       90080,       59470,       72230,      110070,      140250
+38,Wholesale Electronic Markets and Agents and Brokers(425000),         130,       82180,       47060,       61090,      118840,      150360
+39,Wholesale Electronic Markets and Agents and Brokers(425100),         130,       82180,       47060,       61090,      118840,      150360
+40,Sectors 44 and 45 - Retail Trade(44--46),           -,      115730,       60070,       88240,      144790,      179010
+41,Nonstore Retailers(454000),         850,      119500,       73310,       94130,      147760,      180540
+42,Electronic Shopping and Mail-Order Houses(454100),         830,      120010,       73920,       94850,      148580,      181080
+43,Sectors 48 and 49 - Transportation and Warehousing(48--50),         340,       86140,       53830,       68200,      115160,      147600
+44,Air Transportation(481000),          50,       73000,       46310,       55530,      104630,      144850
+45,Truck Transportation(484000),          70,       87500,       47360,       68910,      114140,      142090
+46,Support Activities for Transportation(488000),         130,       82830,       54470,       66840,      125610,      159410
+47,Freight Transportation Arrangement(488500),         100,       80640,       54400,       67200,      113480,      157930
+48,Warehousing and Storage(493000),          30,       86130,       67130,       74230,      100330,      117260
+49,Warehousing and Storage(493100),          30,       86130,       67130,       74230,      100330,      117260
+50,Sector 51 - Information(51--52),        4960,      110420,       50670,       77490,      145080,      181580
+51,Publishing Industries (except Internet)(511000),        1410,      112040,       57940,       79990,      141200,      171890
+52,"Newspaper, Periodical, Book, and Directory Publishers(511100)",         110,       88700,       47620,       68430,      122790,      162840
+53,Software Publishers(511200),        1300,      114010,       59480,       81610,      142180,      172580
+54,Broadcasting (except Internet)(515000),         260,       67310,       35690,       40820,      111270,      151960
+55,Cable and Other Subscription Programming(515200),         260,       67030,       35640,       40710,      109620,      152410
+56,Telecommunications(517000),         410,       94770,       56820,       69590,      125900,      155670
+57,"Data Processing, Hosting, and Related Services(518000)",         720,      101330,       62590,       83810,      133560,      162800
+58,"Data Processing, Hosting, and Related Services(518200)",         720,      101330,       62590,       83810,      133560,      162800
+59,Other Information Services(519000),        2130,      122160,       44810,       83420,      160030,      199430
+60,Other Information Services(519100),        2130,      122160,       44810,       83420,      160030,      199430
+61,Sector 52 - Finance and Insurance(52--53),        7930,      104720,       64790,       83430,      130810,      164010
+62,Monetary Authorities-Central Bank(521000),          30,      119970,       68520,       82270,      154010,      194990
+63,Monetary Authorities-Central Bank(521100),          30,      119970,       68520,       82270,      154010,      194990
+64,Credit Intermediation and Related Activities(522000),           -,      104000,       65820,       82730,      129730,      161110
+65,Credit Intermediation and Related Activities (5221 and 5223 only)(5220A1),        2580,      104590,       65160,       81760,      129290,      159270
+66,Nondepository Credit Intermediation(522200),           -,      102890,       67390,       84710,      130890,      165690
+67,Other Nondepository Credit Intermediation(522290),           -,      101820,       64710,       81860,      128300,      160840
+68,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities(523000)",         720,      133590,       72270,       99110,      182320,           -
+69,Insurance Carriers and Related Activities(524000),        3380,      101810,       61600,       82440,      125350,      151870
+70,Insurance Carriers(524100),        2700,      102630,       64990,       84230,      125160,      149920
+71,Direct Health and Medical Insurance Carriers(524114),         830,       98200,       54460,       76420,      123580,      151280
+72,"Direct Insurance (except Life, Health, and Medical) Carriers(524120)",        1220,      105100,       71230,       87830,      126610,      150860
+73,"Agencies, Brokerages, and Other Insurance Related Activities(524200)",         690,       97900,       54430,       71670,      126410,      158790
+74,Insurance Agencies and Brokerages(524210),         320,      109850,       70280,       89170,      134500,      165100
+75,Other Insurance Related Activities(524290),         370,       85950,       45090,       60810,      111850,      150850
+76,Sector 53 - Real Estate and Rental and Leasing(53--54),         230,      100610,       61390,       76160,      129330,      166270
+77,Real Estate(531000),         130,      112000,       68240,       85170,      140710,      183190
+78,Rental and Leasing Services(532000),          90,       85290,       52990,       67210,      107560,      138130
+79,"Rental and Leasing Services (5322, 5323, and 5324 only)(5320A1)",          40,      100760,       70040,       81060,      129250,      173620
+80,Automotive Equipment Rental and Leasing(532100),          50,       73180,       47180,       56910,       93740,      107700
+81,"Sector 54 - Professional, Scientific, and Technical Services(54--55)",       22700,      100250,       53360,       72120,      134240,      169680
+82,"Professional, Scientific, and Technical Services(541000)",       22700,      100250,       53360,       72120,      134240,      169680
+83,Legal Services(541100),         120,       98930,       58850,       73150,      125450,      143680
+84,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services(541200)",         910,      110010,       62800,       83910,      142230,      189230
+85,"Architectural, Engineering, and Related Services(541300)",        1450,       88360,       46110,       54840,      122440,      161850
+86,Engineering Services(541330),        1310,       90980,       47060,       59170,      124110,      162370
+87,Testing Laboratories(541380),         130,       57600,       38040,       45490,       96010,      149860
+88,Computer Systems Design and Related Services(541500),        9100,      106010,       55810,       74870,      140890,      178170
+89,"Management, Scientific, and Technical Consulting Services(541600)",        6500,       94920,       55470,       70130,      126160,      161450
+90,Scientific Research and Development Services(541700),        2960,      105940,       45980,       74900,      139060,      176240
+91,"Research and Development in the Physical, Engineering, and Life Sciences(541710)",        2840,      107260,       45340,       75610,      140170,      177580
+92,Research and Development in the Social Sciences and Humanities(541720),         120,       81540,       56730,       68780,      109990,      131360
+93,"Advertising, Public Relations, and Related Services(541800)",         610,      106900,       58350,       84570,      136690,      164630
+94,"Other Professional, Scientific, and Technical Services(541900)",        1040,       81820,       44010,       60760,      110160,      138700
+95,Sector 55 - Management of Companies and Enterprises(55--56),        7280,      102810,       62150,       79020,      131790,      165750
+96,Management of Companies and Enterprises(551000),        7280,      102810,       62150,       79020,      131790,      165750
+97,Management of Companies and Enterprises(551100),        7280,      102810,       62150,       79020,      131790,      165750
+98,Sector 56- Administrative and Support and Waste Management and Remediation Services(56--57),        2530,       91760,       46810,       64280,      124700,      153740
+99,Administrative and Support Services(561000),        2530,       91750,       46790,       64240,      124710,      153780
+100,Facilities Support Services(561200),          40,       96370,       56110,       70930,      122100,      144330
+101,Employment Services(561300),        1080,       83580,       44240,       61360,      118910,      151390
+102,Temporary Help Services(561320),         580,       79420,       40340,       58130,      111000,      142720
+103,Business Support Services(561400),         360,      101590,       53680,       66370,      139400,      165980
+104,Travel Arrangement and Reservation Services(561500),          70,       85470,       46730,       57270,      123800,      150950
+105,Sector 61 - Educational Services(61--62),        2640,       68350,       41290,       53180,       91690,      131390
+106,Educational Services(611000),        2640,       68350,       41290,       53180,       91690,      131390
+107,Educational Services - State government owned(611002),        1550,       64570,       40890,       50290,       82990,      106280
+108,Educational Services - Local government owned(611003),         160,       71070,       42390,       56200,       87850,      105020
+109,Educational Services - Privately owned(611005),         940,       77260,       42140,       57420,      120250,      162200
+110,Elementary and Secondary Schools(611100),         200,       59590,       34180,       38350,       81550,      103650
+111,Elementary and Secondary Schools - Local government owned(611103),         110,       72510,       40700,       55150,       87650,      108410
+112,Elementary and Secondary Schools - Privately owned(611105),           -,       38330,       32730,       34830,       56600,       87550
+113,"Junior Colleges (including private, state, and local government schools)(611200)",          70,       60100,       31870,       41520,       78730,       99760
+114,Junior colleges - State government owned(611202),          40,       45790,       29050,       34110,       64370,       82490
+115,Junior colleges - Local government owned(611203),          40,       68290,       48190,       58090,       90240,      103010
+116,"Colleges, Universities, and Professional Schools(611300)",        2020,       67870,       42260,       53010,       87500,      116280
+117,"Colleges, universities, and professional schools - State government owned(611302)",        1510,       64910,       41620,       50780,       83340,      106550
+118,"Colleges, universities, and professional schools - Privately owned(611305)",         510,       78050,       46610,       60580,      106300,      141180
+119,Business Schools and Computer and Management Training(611400),          50,       62050,       44280,       53680,      115150,      133320
+120,Business schools and computer and management training - Privately owned(611405),          50,       62360,       44610,       54150,      115710,      133610
+121,Other Schools and Instruction(611600),          30,      143190,       61520,      111210,      160830,      189740
+122,Other schools and instruction - Privately owned(611605),          30,      143190,       61520,      111210,      160830,      189740
+123,Educational Support Services(611700),         260,       86320,       53620,       60970,      158680,      176810
+124,Educational Support Services - Privately owned(611705),         260,       85990,       53590,       60890,      158860,      176890
+125,Sector 62 - Health Care and Social Assistance(62--63),        2050,       84450,       51310,       64650,      104590,      129140
+126,Ambulatory Health Care Services(621000),         650,       87140,       53320,       67190,      106750,      127440
+127,Offices of Physicians(621100),         180,       77750,       51150,       59890,      103440,      128920
+128,Outpatient Care Centers(621400),         240,       89830,       58880,       72760,      104720,      121870
+129,Outpatient Mental Health and Substance Abuse Centers(621420),          40,       77170,       54230,       66670,       89880,      107030
+130,Medical and Diagnostic Laboratories(621500),         110,       90970,       55340,       71830,      109330,      127640
+131,Other Ambulatory Health Care Services(621900),          90,       92140,       44630,       69790,      117820,      137960
+132,All Other Ambulatory Health Care Services(621990),          80,       95120,       57050,       73730,      119970,      140400
+133,"Hospitals (including private, state, and local government hospitals)(622000)",        1220,       85190,       53150,       66250,      104460,      130460
+134,Hospitals - State government owned(622002),          80,       81460,       55060,       64150,       96350,      109810
+135,Hospitals - Local government owned(622003),         100,       82510,       51500,       67810,      102360,      124330
+136,Hospitals - Privately owned(622005),        1040,       85860,       52980,       66250,      105710,      131690
+137,General Medical and Surgical Hospitals(622100),        1170,       85150,       52870,       66120,      104380,      129820
+138,General Medical and Surgical Hospitals - State government owned(622102),          80,       81460,       55060,       64150,       96350,      109810
+139,General Medical and Surgical Hospitals - Local government owned(622103),         100,       82510,       51500,       67810,      102360,      124330
+140,General Medical and Surgical Hospitals - Privately owned(622105),         990,       85860,       52620,       66100,      105630,      130970
+141,Specialty (except Psychiatric and Substance Abuse) Hospitals(622300),          30,       90760,       60360,       72540,      129160,      162420
+142,Specialty hospitals - Privately owned(622305),          30,       90760,       60360,       72540,      129160,      162420
+143,Social Assistance(624000),         170,       64810,       41550,       51030,       92430,      128870
+144,Individual and Family Services(624100),         150,       66630,       42990,       53900,       95440,      132580
+145,"Sector 71 - Arts, Entertainment, and Recreation(71--72)",          80,       81800,       46400,       57360,      110480,      134290
+146,"Performing Arts, Spectator Sports, and Related Industries(711000)",          50,       73760,       45240,       55070,      107300,      133850
+147,Spectator Sports(711200),          40,       67440,       45000,       54010,       99660,      128930
+148,"Sector 81 - Other Services (except Federal, State, and Local Government)(81--82)",         470,       87640,       49040,       67210,      109140,      136970
+149,"Religious, Grantmaking, Civic, Professional, and Similar Organizations(813000)",         410,       87360,       51440,       69030,      107700,      134750
+150,Grantmaking and Giving Services(813200),         110,       83110,       48140,       65590,      105040,      125350
+151,Social Advocacy Organizations(813300),          60,       96590,       62160,       78910,      108720,      147670
+152,"Business, Professional, Labor, Political, and Similar Organizations(813900)",         230,       84760,       50300,       67450,      108260,      137920
+153,"Federal, State, and Local Government, including government owned schools and hospitals(999001)",        4710,       69860,       37530,       51040,       86330,      106260
+154,Federal Executive Branch (OEWS Designation)(999100),         690,       40570,       31210,       31680,       51070,      140450
+155,"Federal government, including USPS(999101)",         690,       40570,       31210,       31680,       51070,      140450
+156,"State Government, including schools and hospitals(999201)",        3270,       72710,       45130,       57730,       86430,      103960
+157,"Local Government, excluding schools and hospitals (OEWS Designation)(999300)",         480,       73890,       42460,       53800,       93570,      110700
+158,"Local Government, including schools and hospitals(999301)",         750,       74550,       43370,       55830,       94100,      112290
